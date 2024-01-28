@@ -3,7 +3,7 @@
 
 
 
-Data Exploration and Visualization: 📊
+1. Data Exploration and Visualization: 📊
 
   Started by visualizing the data, and understanding the characteristics of our cat and dog images. 
 
