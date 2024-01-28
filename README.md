@@ -2,9 +2,6 @@
 
 
 
-Hey LinkedIn community! 👋 I'm thrilled to share my journey of using the robust VGG16 architecture to classify images of adorable cats 🐱 and dogs 🐶. Let's dive into the exciting world of Convolutional Neural Networks (CNNs).
-
-
 
 Data Exploration and Visualization: 📊
 
